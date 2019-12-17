@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="*">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <ImageView
+            android:id="@+id/ficha1"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="3dp"
+            android:onClick="levantaFicha"
+            app:srcCompat="@drawable/fondo" />
+
+        <ImageView
+            android:id="@+id/ficha2"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="3dp"
+            android:onClick="levantaFicha"
+            app:srcCompat="@drawable/fondo" />
+
+        <ImageView
+            android:id="@+id/ficha3"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="3dp"
+            android:onClick="levantaFicha"
+            app:srcCompat="@drawable/fondo" />
+
+        <ImageView
+            android:id="@+id/ficha4"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="3dp"
+            android:onClick="levantaFicha"
+            app:srcCompat="@drawable/fondo" />
+
+        <ImageView
+            android:id="@+id/ficha5"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="3dp"
+            android:onClick="levantaFicha"
+            app:srcCompat="@drawable/fondo" />
+
+        <ImageView
+            android:id="@+id/ficha6"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="3dp"
+            android:onClick="levantaFicha"
+            app:srcCompat="@drawable/fondo" />
+
+        <ImageView
+            android:id="@+id/ficha7"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="3dp"
+            android:onClick="levantaFicha"
+            app:srcCompat="@drawable/fondo" />
+
+        <ImageView
+            android:id="@+id/ficha8"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="3dp"
+            android:onClick="levantaFicha"
+            app:srcCompat="@drawable/fondo" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <ImageView
+            android:id="@+id/ficha9"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="3dp"
+            android:onClick="levantaFicha"
+            app:srcCompat="@drawable/fondo" />
+
+        <ImageView
+            android:id="@+id/ficha10"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="3dp"
+            android:onClick="levantaFicha"
+            app:srcCompat="@drawable/fondo" />
+
+        <ImageView
+            android:id="@+id/ficha11"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="3dp"
+            android:onClick="levantaFicha"
+            app:srcCompat="@drawable/fondo" />
+
+        <ImageView
+            android:id="@+id/ficha12"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="3dp"
+            android:onClick="levantaFicha"
+            app:srcCompat="@drawable/fondo" />
+
+        <ImageView
+            android:id="@+id/ficha13"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="3dp"
+            android:onClick="levantaFicha"
+            app:srcCompat="@drawable/fondo" />
+
+        <ImageView
+            android:id="@+id/ficha14"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="3dp"
+            android:onClick="levantaFicha"
+            app:srcCompat="@drawable/fondo" />
+
+        <ImageView
+            android:id="@+id/ficha15"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="3dp"
+            android:onClick="levantaFicha"
+            app:srcCompat="@drawable/fondo" />
+
+        <ImageView
+            android:id="@+id/ficha16"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="3dp"
+            android:onClick="levantaFicha"
+            app:srcCompat="@drawable/fondo" />
+    </TableRow>
+    <TableRow
+        android:layout_height="match_parent"
+        android:layout_width="match_parent">
+
+
+        <ImageView
+            android:id="@+id/ficha17"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="3dp"
+            android:onClick="levantaFicha"
+            app:srcCompat="@drawable/fondo" />
+        <ImageView
+            android:id="@+id/ficha18"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="3dp"
+            android:onClick="levantaFicha"
+            app:srcCompat="@drawable/fondo" />
+        <ImageView
+            android:id="@+id/ficha19"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="3dp"
+            android:onClick="levantaFicha"
+            app:srcCompat="@drawable/fondo" />
+        <ImageView
+            android:id="@+id/ficha20"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="3dp"
+            android:onClick="levantaFicha"
+            app:srcCompat="@drawable/fondo" />
+        <ImageView
+            android:id="@+id/ficha21"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="3dp"
+            android:onClick="levantaFicha"
+            app:srcCompat="@drawable/fondo" />
+        <ImageView
+            android:id="@+id/ficha22"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="3dp"
+            android:onClick="levantaFicha"
+            app:srcCompat="@drawable/fondo" />
+        <ImageView
+            android:id="@+id/ficha23"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="3dp"
+            android:onClick="levantaFicha"
+            app:srcCompat="@drawable/fondo" />
+        <ImageView
+            android:id="@+id/ficha24"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="3dp"
+            android:onClick="levantaFicha"
+            app:srcCompat="@drawable/fondo" />
+    </TableRow>
+    <TableRow
+        android:layout_height="match_parent"
+        android:layout_width="match_parent">
+
+
+        <ImageView
+            android:id="@+id/ficha25"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="3dp"
+            android:onClick="levantaFicha"
+            app:srcCompat="@drawable/fondo" />
+        <ImageView
+            android:id="@+id/ficha26"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="3dp"
+            android:onClick="levantaFicha"
+            app:srcCompat="@drawable/fondo" />
+        <ImageView
+            android:id="@+id/ficha27"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="3dp"
+            android:onClick="levantaFicha"
+            app:srcCompat="@drawable/fondo" />
+        <ImageView
+            android:id="@+id/ficha28"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="3dp"
+            android:onClick="levantaFicha"
+            app:srcCompat="@drawable/fondo" />
+        <ImageView
+            android:id="@+id/ficha29"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="3dp"
+            android:onClick="levantaFicha"
+            app:srcCompat="@drawable/fondo" />
+        <ImageView
+            android:id="@+id/ficha30"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="3dp"
+            android:onClick="levantaFicha"
+            app:srcCompat="@drawable/fondo" />
+        <ImageView
+            android:id="@+id/ficha31"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="3dp"
+            android:onClick="levantaFicha"
+            app:srcCompat="@drawable/fondo" />
+        <ImageView
+            android:id="@+id/ficha32"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="3dp"
+            android:onClick="levantaFicha"
+
+            app:srcCompat="@drawable/fondo" />
+    </TableRow>
+
+
+
+</TableLayout>
